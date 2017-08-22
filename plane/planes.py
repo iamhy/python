@@ -39,4 +39,4 @@ while not finished:
         #刷新显示
         pygame.display.flip()
         #设置游戏速度
-        clock.tick(20)
+        clock.tick(60)
